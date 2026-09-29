@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Haridoss
+  given-names: Lakshmi Narayanan
+title: "A Finite-Dimensional Stochastic Propagator with CSL-Type Collapse Dynamics for Multi-Qubit Registers: Supplementary Code"
+version: 1.0.1
+date-released: 2026-09-29
